@@ -12,6 +12,7 @@ class point{
 
 
 
+
    void show(){
         cout<<x<<endl;
         cout<<y<<endl;
